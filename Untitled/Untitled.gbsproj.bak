@@ -1,5 +1,5 @@
 {
-    "name": "Twin Telepathy",
+    "name": "Untitled",
     "author": "Steven",
     "_version": "3.1.0",
     "_release": "3",
@@ -10145,7 +10145,7 @@
             "playerHit1Script": [],
             "playerHit2Script": [],
             "playerHit3Script": [],
-            "type": "PLATFORM",
+            "type": "TOPDOWN",
             "symbol": "scene_logo"
         },
         {
@@ -70376,7 +70376,7 @@
             "symbol": "sound_gbstudio_sfx_sav",
             "filename": "Tronimal_Sound_Effects.sav",
             "type": "fxhammer",
-            "inode": "3377699721365249",
+            "inode": "18979781",
             "_v": 1661702554742
         }
     ],
@@ -70597,9 +70597,9 @@
         "startDirection": "right",
         "showCollisions": true,
         "showConnections": true,
-        "worldScrollX": 457,
-        "worldScrollY": 367,
-        "zoom": 104.47586956620216,
+        "worldScrollX": 0,
+        "worldScrollY": 22,
+        "zoom": 115.88104721903801,
         "customColorsEnabled": true,
         "sgbEnabled": false,
         "customHead": "",
@@ -70627,9 +70627,9 @@
         "defaultUIPaletteId": "default-ui",
         "playerPaletteId": "",
         "navigatorSplitSizes": [
-            422,
-            131,
-            131
+            516,
+            161,
+            161
         ],
         "showNavigator": true,
         "defaultFontId": "948c169c-8e4b-491c-a5f0-66898bbf45d9",
